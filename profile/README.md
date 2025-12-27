@@ -2,13 +2,14 @@
 
 🐟 FishPort Network 费事破特服务器
 
-🤔 FishPort是一个国战+生存类型的Minecraft服务器, 目前版本在```1.20.1```, 我们采用Folia服务端进行承载, 同时也会自己制作一些插件以提供更多玩法
+🤔 FishPort是一个生存(国战风味)类型的Minecraft服务器, 目前版本在```1.21.4```, 我们采用Folia服务端进行承载, 同时也会自己制作一些插件以提供更多玩法
 
 🐧 我们的服务器QQ群是 ```1037968820``` , 如果您有兴趣的话可以加群游玩
 
+<!--
 ❤️ 我们还有一个由玩家社群编写的[Wiki](https://wiki.fishport.net)
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
